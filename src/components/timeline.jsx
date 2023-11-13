@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                       <h2> University of Edinburgh <span>2023-2024</span></h2>
-                      <p>I am pursuing a Master's degree in International and European Politics. </p>
+                      <p>I am pursuing my MSc degree in International and European Politics. </p>
                       </div>
                     </div>
                   </article>
@@ -48,7 +48,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2> University of Pittsburgh <span>2018-2022</span></h2>
-                        <p>I completed my undergrad studies studiying, Philosophy and Politics (PPE) as well as Computer Science (minor).</p>
+                        <p>I did my undergrad degree in Philosophy and Politics (PPE) and Computer Science.</p>
                       </div>
                     </div>
                   </article>
