@@ -18,7 +18,7 @@ export default class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href={process.env.PUBLIC_URL + "/tonidumitriu/Desktop/Antonia_Dumitriu_Resume.pdf"}
+                              href={process.env.PUBLIC_URL + "/Users/tonidumitriu/Desktop/Antonia_Dumitriu_Resume.pdf"}
                               download="Antonia_Dumitriu_Resume.pdf"
                               target="_blank"
                               rel="noopener noreferrer"
