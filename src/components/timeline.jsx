@@ -32,6 +32,20 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
+                        <h2> Carbon Tag <span>November 2023 - Current </span></h2>
+                        <p> As a Frontend Developer at CarbonTag, I actively contribute to the company's mission
+                          of harnessing data-driven solutions to understand and reduce carbon emissions. 
+                          Collaborating with a dedicated team, I play a crucial role in transforming environmental
+                          insights into user-friendly web applications. </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
                         <h2> Cinema for Peace Foundation <span>August - October 2022</span></h2>
                         <p> Berlin, Germany </p>
                         <p> Worked on various projects, including the organization of the annual award gala held in Ukraine,
