@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
 export default class Timeline extends Component {
   render() {
@@ -21,47 +21,34 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                      <h2> University of Edinburgh <span>2023-2024</span></h2>
-                      <p>I am pursuing my MSc degree in International and European Politics. </p>
+                        <h2>University of Edinburgh <span>2023-2024</span></h2>
+                        <p>I am pursuing my MSc degree in International and European Politics. </p>
                       </div>
                     </div>
                   </article>
+                  
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> Carbon Tag <span>November 2023 - Current </span></h2>
-                        <p> As a Frontend Developer at CarbonTag, I actively contribute to the company's mission
+                        <h2>Carbon Tag <span>November 2023 - Current </span></h2>
+                        <p>As a Frontend Developer at CarbonTag, I actively contribute to the company's mission
                           of harnessing data-driven solutions to understand and reduce carbon emissions. 
                           Collaborating with a dedicated team, I play a crucial role in transforming environmental
                           insights into user-friendly web applications. </p>
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2> Cinema for Peace Foundation <span>August - October 2022</span></h2>
-                        <p> Berlin, Germany </p>
-                        <p> Worked on various projects, including the organization of the annual award gala held in Ukraine,
-                         a documentary film project depicting the trials of various world leaders who have committed human
-                         rights violations, and updated as well as maintained the social media platforms and website of the
-                          foundation. </p>
-                      </div>
-                    </div>
-                  </article>
+                  
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> University of Pittsburgh <span>2018-2022</span></h2>
+                        <h2>University of Pittsburgh <span>2018-2022</span></h2>
                         <p>I did my undergrad degree in Philosophy and Politics (PPE) and Computer Science.</p>
                       </div>
                     </div>
